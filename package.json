@@ -1,0 +1,30 @@
+{
+    "name": "merntaskservidor",
+    "version": "1.0.0",
+    "description": "MERN API para MERN TASK",
+    "main": "index.js",
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "cors": "^2.8.5",
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "express-validator": "^6.5.0",
+        "jsonwebtoken": "^8.5.1",
+        "mongoose": "^5.9.17",
+        "nodemon": "^2.0.4"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "dev": "nodemon ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/claudiogallardohenriquez/mern-task-api.git"
+    },
+    "author": "Claudio Gallardo",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/claudiogallardohenriquez/mern-task-api/issues"
+    },
+    "homepage": "https://github.com/claudiogallardohenriquez/mern-task-api#readme"
+}
