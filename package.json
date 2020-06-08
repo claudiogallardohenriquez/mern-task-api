@@ -15,6 +15,7 @@
     },
     "devDependencies": {},
     "scripts": {
+        "start": "node .",
         "dev": "nodemon ."
     },
     "repository": {
